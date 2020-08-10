@@ -1,11 +1,9 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/SanchitaSinha/)
 
 
-### Hi I'm Sanchita👋 
-<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
-<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> :
+### Hi I'm Sanchita  <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"><img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px">
 
-Enthusiastic learner. Skilled in Microsoft Word, Event Management, Java, Teamwork, and Team Coordination. Strong engineering professional with a B.Tech - Bachelor of Technology focused in Computer Science Engineering with Specialisation in Big Data Analytics from SRM University. 🎀
+I'm an enthusiastic learner. I'm skilled in Microsoft Word, Event Management, Java, Teamwork, and Team Coordination. I'm a strong engineering professional with a B.Tech - Bachelor of Technology focused in Computer Science Engineering with Specialisation in Big Data Analytics from SRM University. 🎀
 
 [![Linkedin Badge](https://img.shields.io/badge/-SanchitaSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SanchitaSinha/)](https://www.linkedin.com/in/SanchitaSinha/)
 [![MAIL Badge](https://img.shields.io/badge/-sanchitasinha2604@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanchitasinha2604@gmail.com)](mailto:sanchitasinha2604@gmail.com )
@@ -35,7 +33,7 @@ Enthusiastic learner. Skilled in Microsoft Word, Event Management, Java, Teamwor
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/swhare/JupyterNotebookSupport/master/favicon.ico"></code>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
+*NOTE: Top languages does not indicate my skill level, it's just a github metric of languages which I have the used in most of my codes on Github, it's a new feature of [github-readme-stats]*
 
 ![Sanchita Github Stats](https://github-readme-stats.vercel.app/api?username=SanchitaSinha&show_icons=true)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitaSinha&hide=css)](https://github.com/SanchitaSinha/github-readme-stats)
 
@@ -43,3 +41,5 @@ Enthusiastic learner. Skilled in Microsoft Word, Event Management, Java, Teamwor
 ## Find me around the web 🌎:
 - Practicing Coding Skills in <a href="https://www.hackerrank.com/SanchitaSinha">HackerRank</a>📹✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/SanchitaSinha/">LinkedIn</a> 💼
+
+Thanks for visiting!
