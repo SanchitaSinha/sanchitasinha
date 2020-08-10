@@ -1,7 +1,7 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/SanchitaSinha/)
 
 
-### Hi I'm Sanchita  <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"><img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px">
+### Hey! I'm Sanchita  <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"><img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px">
 
 I'm an enthusiastic learner. I'm skilled in Microsoft Word, Event Management, Java, Teamwork, and Team Coordination. I'm a strong engineering professional with a B.Tech - Bachelor of Technology focused in Computer Science Engineering with Specialisation in Big Data Analytics from SRM University. 🎀
 
