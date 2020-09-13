@@ -12,7 +12,7 @@
 
 I'm an enthusiastic learner. I'm skilled in Microsoft Word, Event Management, Java, Teamwork, and Team Coordination. I'm a strong engineering professional with a B.Tech - Bachelor of Technology focused in Computer Science Engineering with Specialisation in Big Data Analytics from SRM University. 🎀
 
-[![Linkedin Badge](https://img.shields.io/badge/-SanchitaSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SanchitaSinha/)](https://www.linkedin.com/in/SanchitaSinha/)
+[![Linkedin Badge](https://img.shields.io/badge/-SanchitaSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SanchitaSinha/)](https://www.linkedin.com/in/sanchita26)
 [![MAIL Badge](https://img.shields.io/badge/-sanchitasinha2604@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanchitasinha2604@gmail.com)](mailto:sanchitasinha2604@gmail.com )
  
 ### Pleased to meet you 😀
