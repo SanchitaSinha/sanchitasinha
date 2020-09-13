@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/SanchitaSinha/count.svg" alt="vistor count" height="50" /></td>
+    <td><img src="https://profile-counter.glitch.me/SanchitaSinha/count.svg" alt="vistor count" height="25" /></td>
   </tr>
 </table>
 
@@ -17,7 +17,7 @@ I'm an enthusiastic learner. I'm skilled in Microsoft Word, Event Management, Ja
  
 ### Pleased to meet you 😀
 
-- 🔭 I’m currently working on <b>MERN</b>
+- 🔭 I’m currently working on <b>Flutter</b>
 - 🌱 I’m currently learning <b>Data Structures, Algorithms, JS, CSS, XML</b>
 - 👯 I’m looking to collaborate on <b>Projects on React, Redux, Flux</b>
 - 🤔 I’m looking for help with <b>JavaScript</b>
