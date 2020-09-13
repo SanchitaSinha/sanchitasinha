@@ -46,7 +46,7 @@ I'm an enthusiastic learner. I'm skilled in Microsoft Word, Event Management, Ja
 
 
 ## Find me around the web 🌎:
-- Practicing Coding Skills in <a href="https://www.hackerrank.com/SanchitaSinha">HackerRank</a>📹✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/SanchitaSinha/">LinkedIn</a> 💼
+- Practicing Coding Skills in <a href="https://www.hackerrank.com/sanchita26">HackerRank</a>📹✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/sanchita26">LinkedIn</a> 💼
 
 Thanks for visiting!
