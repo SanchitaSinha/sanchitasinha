@@ -10,7 +10,13 @@
 ### Hey! I'm Sanchita  <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-I'm an enthusiastic learner. I'm skilled in Microsoft Word, Event Management, Java, Teamwork, and Team Coordination. I'm a strong engineering professional with a B.Tech - Bachelor of Technology focused in Computer Science Engineering with Specialisation in Big Data Analytics from SRM University. 🎀
+I'm currently pursuing my bachelors degree in Computer Science and Engineering with Specialization in Big Data Analytics from SRM University, Chennai because I scored a 100% in all my Computer Science examinations since the 9th grade.
+
+I enjoy solving problems that test my ability to think creatively and analytically. I am a learner and have always been driven by my obsession to become a better version of myself by learning through my experiences and through others. I am a detail oriented person and I keep my goals and tasks organized to maintain productivity. Playing a team sport like Basketball has taught me the value of trust, dedication and hard-work and has helped me develop my ability to think on my feet especially under pressure. As a captain of a basketball team or as a leader of a group project or a club, I have always learned the importance of embracing change and being proactive, controlling my emotions while being empathetic, being persuasive and getting things done, inspiring others while seeking out advice when needed and never stop learning.
+
+I come from 'The Steel City' which is also known for its greenery and cleanliness which has deeply engrained the respect for nature in me. I like taking a walk in places which have a luscious greenery and plenty of flowers. I'm a voracious reader and I enjoy listening to music and I think I can sing pretty well too. 
+
+Fun Fact- I can identify every Taylor Swift song by just listening to the first few seconds of it. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-SanchitaSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SanchitaSinha/)](https://www.linkedin.com/in/sanchita26)
 [![MAIL Badge](https://img.shields.io/badge/-sanchitasinha2604@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanchitasinha2604@gmail.com)](mailto:sanchitasinha2604@gmail.com )
