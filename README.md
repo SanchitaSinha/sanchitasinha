@@ -29,7 +29,7 @@ Fun Fact- I can identify every Taylor Swift song by just listening to the first 
 - 🤔 I’m looking for help with <b>JavaScript</b>
 - 💬 Ask me about <b>Anything</b>
 - 😄 Pronouns:<b>She/Her</b>
-- ⚡ Fun fact: <b>Your online reputation and privacy worst enemies are WhatsApp, Snapchat, Instagram, Google, Facebook,and Twitter.</b>
+- ⚡ Fun fact: <b>More than 570 new websites are created every minute.</b>
 
 ## Language and Tools:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
