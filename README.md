@@ -16,7 +16,7 @@ I enjoy solving problems that test my ability to think creatively and analytical
 
 I come from 'The Steel City' which is also known for its greenery and cleanliness which has deeply engrained the respect for nature in me. I like taking a walk in places which have a luscious greenery and plenty of flowers. I'm a voracious reader and I enjoy listening to music and I think I can sing pretty well too. 
 
-Fun Fact- I can identify every Taylor Swift song by just listening to the first few seconds of it. 
+Fun Fact about me- I can identify every Taylor Swift song by just listening to the first few seconds of it. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-SanchitaSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SanchitaSinha/)](https://www.linkedin.com/in/sanchita26)
 [![MAIL Badge](https://img.shields.io/badge/-sanchitasinha2604@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanchitasinha2604@gmail.com)](mailto:sanchitasinha2604@gmail.com )
