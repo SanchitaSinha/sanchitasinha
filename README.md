@@ -24,7 +24,7 @@ Fun Fact about me- I can identify every Taylor Swift song by just listening to t
 ### Pleased to meet you 😀
 
 - 🔭 I’m currently working on <b>Node.js</b>
-- 🌱 I’m currently learning <bReact</b>
+- 🌱 I’m currently learning <b>React</b>
 - 👯 I’m looking to collaborate on <b>Projects on React, Redux, Flux</b>
 - 🤔 I’m looking for help with <b>Redux-React-Session</b>
 - 💬 Ask me about <b>Anything</b>
