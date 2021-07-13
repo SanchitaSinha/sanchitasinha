@@ -23,10 +23,10 @@ Fun Fact about me- I can identify every Taylor Swift song by just listening to t
  
 ### Pleased to meet you 😀
 
-- 🔭 I’m currently working on <b>Flutter</b>
-- 🌱 I’m currently learning <b>Data Structures, Algorithms, JS, CSS, XML</b>
+- 🔭 I’m currently working on <b>Node.js</b>
+- 🌱 I’m currently learning <bReact</b>
 - 👯 I’m looking to collaborate on <b>Projects on React, Redux, Flux</b>
-- 🤔 I’m looking for help with <b>JavaScript</b>
+- 🤔 I’m looking for help with <b>Redux-React-Session</b>
 - 💬 Ask me about <b>Anything</b>
 - 😄 Pronouns:<b>She/Her</b>
 - ⚡ Fun fact: <b>More than 570 new websites are created every minute.</b>
@@ -34,7 +34,7 @@ Fun Fact about me- I can identify every Taylor Swift song by just listening to t
 ## Language and Tools:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -42,11 +42,11 @@ Fun Fact about me- I can identify every Taylor Swift song by just listening to t
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/swhare/JupyterNotebookSupport/master/favicon.ico"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/swhare/JupyterNotebookSupport/master/favicon.ico"></code> -->
 
-*NOTE: Top languages does not indicate my skill level, it's just a github metric of languages which I have the used in most of my codes on Github, it's a new feature of [github-readme-stats]*
+<!-- *NOTE: Top languages does not indicate my skill level, it's just a github metric of languages which I have the used in most of my codes on Github, it's a new feature of [github-readme-stats]* -->
 
 ![Sanchita Github Stats](https://github-readme-stats.vercel.app/api?username=SanchitaSinha&show_icons=true)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitaSinha&hide=css)](https://github.com/SanchitaSinha/github-readme-stats)
 
