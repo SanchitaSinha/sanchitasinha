@@ -7,7 +7,7 @@
 </table>
 
 
-### Hey! I'm Sanchita  <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
+### Hey! I'm Sanchita!  <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 I'm currently pursuing my bachelors degree in Computer Science and Engineering with Specialization in Big Data Analytics from SRM University, Chennai because I scored a 100% in all my Computer Science examinations since the 9th grade.
