@@ -27,17 +27,16 @@ Fun Fact about me- I can identify every Taylor Swift song by just listening to t
  
 ### Pleased to meet you 😀
 
-- 🔭 I’m currently working on <b>Node.js</b>
-- 🌱 I’m currently learning <b>React</b>
-- 👯 I’m looking to collaborate on <b>Projects on React, Redux, Flux</b>
-- 🤔 I’m looking for help with <b>Redux-React-Session</b>
-- 💬 Ask me about <b>Anything</b>
+- 🔭 I’m currently working on <b>Java</b>
+- 🌱 I’m currently learning <b>Spring Boot</b>
+- 🤔 I’m looking for help with <b>React</b>
 - 😄 Pronouns:<b>She/Her</b>
-- ⚡ Fun fact: <b>More than 570 new websites are created every minute.</b>
+- ⚡ Fun fact: <b>I can identify more than 90% of Taylor Swift songs by listening to the first 5 seconds of it.</b>
 
 ## Language and Tools:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -46,6 +45,7 @@ Fun Fact about me- I can identify every Taylor Swift song by just listening to t
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/swhare/JupyterNotebookSupport/master/favicon.ico"></code> -->
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> -->
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
