@@ -1,5 +1,4 @@
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/SanchitaSinha/)  
-<table>
+ <table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/SanchitaSinha/count.svg" alt="vistor count" height="25" /></td>
